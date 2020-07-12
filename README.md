@@ -2,7 +2,7 @@
 
 Hi there! I'm a self taught developer who began studying programming in 2019.
 
-### Technologies
+### Technologies:
 
 Languages: JavaScript/TypeScript, C#
 <br/>

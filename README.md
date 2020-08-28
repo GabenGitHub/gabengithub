@@ -11,4 +11,4 @@ Frontend: HTML, CSS, JavaScript/TypeScript, React
 <br/>
 Backend: Node.js, ASP.NET Core, PostgreSQL, MongoDB, SQLite
 <br/>
-Other: Git :) , Docker, Linux (AWS EC2)
+Other: Git :smirk: , Docker, Linux (AWS EC2)

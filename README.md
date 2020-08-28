@@ -9,4 +9,6 @@ Languages: JavaScript/TypeScript, C#
 <br/>
 Frontend: HTML, CSS, JavaScript/TypeScript, React
 <br/>
-Backend: Node.js, ASP.NET Core, MongoDB, SQLite
+Backend: Node.js, ASP.NET Core, PostgreSQL, MongoDB, SQLite
+<br/>
+Other: Git :) , Docker, Linux (AWS EC2)

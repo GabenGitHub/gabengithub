@@ -1,6 +1,6 @@
 # Gabor Szabo - Fullstack developer
 
-Hi there! I'm a self taught developer who began studying programming in 2019.
+Hi there! I'm a self taught developer :smile:
 
 ### Technologies:
 

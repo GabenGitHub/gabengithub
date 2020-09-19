@@ -1,6 +1,6 @@
 # Gabor Szabo - Fullstack developer
 
-Hi there! I'm a self taught developer :smile:
+Hi there! I'm a self taught developer :blush:
 
 ### Technologies:
 

@@ -7,7 +7,7 @@ Hi there! I'm a self taught developer :blush:
 Languages: JavaScript/TypeScript, C#
 <br/>
 <br/>
-Frontend: HTML, CSS, JavaScript/TypeScript, React
+Frontend: HTML, CSS, JavaScript/TypeScript, React/Next.js
 <br/>
 Backend: Node.js, ASP.NET Core, PostgreSQL, MongoDB, SQLite
 <br/>

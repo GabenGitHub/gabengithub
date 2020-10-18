@@ -15,6 +15,6 @@ Frontend: HTML, CSS, JavaScript/TypeScript, React/Next.js
 <br/>
 Backend: Node.js, ASP.NET Core, PostgreSQL, MongoDB, SQLite
 <br/>
-Other: Git :smirk: , Docker, Linux (AWS EC2)
+Other: Git :smirk: , Docker, Linux (AWS EC2), Unit tests (xUnit w/ Moq, EF-inmemory/Sqlite-inmemory) 
 
 ![Gaben's github stats](https://github-readme-stats.vercel.app/api?username=gabengithub&show_icons=true&theme=dracula)

@@ -18,4 +18,5 @@ Backend: Node.js, ASP.NET Core, PostgreSQL, MongoDB, SQLite
 Other: Git :smirk: , Docker, Linux (AWS EC2), Unit tests (xUnit w/ Moq, EF-inmemory/Sqlite-inmemory) 
 
 ![Gaben's github stats](https://github-readme-stats.vercel.app/api?username=gabengithub&show_icons=true&theme=dracula)
-![Gaben's github LangStats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabengithub&layout=compact&theme=radical)
+<br/>
+![Gaben's github LangStats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabengithub&layout=compact&theme=dracula)

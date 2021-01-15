@@ -11,11 +11,11 @@ Hi there! I'm a self taught developer :blush:
 Languages: **C#**, JavaScript/**TypeScript**
 <br/>
 <br/>
-Frontend: HTML, CSS, JavaScript/**TypeScript**, **React**/Next.js
+Frontend: HTML, CSS, JavaScript/**TypeScript**, **React**/Next.js, Angular
 <br/>
 Backend: **ASP.NET Core**, Node.js, **PostgreSQL**, MongoDB, SQLite
 <br/>
-Other: **Git** :smirk: , **Docker**, Linux (AWS EC2), **Unit tests** (xUnit w/ Moq, EF-inmemory/Sqlite-inmemory) 
+Other: **Git** :smirk: , **Docker**, Linux (Ubuntu - AWS EC2), **Unit tests** (xUnit w/ Moq), IdentityServer4
 
 ![Gaben's github LangStats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabengithub&layout=compact&theme=dracula)
 <br/>

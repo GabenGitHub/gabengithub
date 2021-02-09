@@ -13,9 +13,9 @@ Languages: **C#**, JavaScript/**TypeScript**
 <br/>
 Frontend: HTML, CSS, JavaScript/**TypeScript**, **React**/Next.js, Angular
 <br/>
-Backend: **ASP.NET Core**, Node.js, **PostgreSQL**, MongoDB, SQLite
+Backend: **ASP.NET Core**, Node.js, **PostgreSQL**, MongoDB
 <br/>
-Other: **Git** :smirk: , **Docker**, Linux (Ubuntu - AWS EC2), **Unit tests** (xUnit w/ Moq), IdentityServer4
+Other: **Git** :smirk:, Jira, Bitbucker, Confluence , **Docker**, Linux (**AWS** EC2), **Unit tests** (xUnit, Jasmin), IdentityServer4
 
 ![Gaben's github LangStats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabengithub&layout=compact&theme=dracula)
 <br/>

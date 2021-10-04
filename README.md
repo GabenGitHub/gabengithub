@@ -11,9 +11,11 @@ Hi there! I'm a self taught fullstack developer :blush:
 Languages: **C#**, JavaScript/**TypeScript**
 <br/>
 <br/>
-Frontend: HTML, CSS, JavaScript/**TypeScript**, **React**/Next.js, Angular
+Frontend: HTML, CSS, **React**/Next.js(TypeScript), **Angular**(TypeScript)
 <br/>
-Backend: **ASP.NET Core**, Node.js, **PostgreSQL**, MongoDB
+Backend: **ASP.NET Core**, **Node.js**
+<br/>
+Database: **PostgreSQL**, MongoDB
 <br/>
 Other: **Git**, Jira, Bitbucket, Confluence , **Docker**, Linux, **AWS** (EC2, RDS, LB, VPC), **Unit tests** (xUnit, Jasmin), IdentityServer4
 

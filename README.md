@@ -11,7 +11,7 @@ Hi there! I'm a self taught fullstack developer :blush:
 Languages: **C#**, JavaScript/**TypeScript**
 <br/>
 <br/>
-Frontend: **Angular**, **React**/Next.js(TypeScript), 
+Frontend: **Angular**, **React**, 
 <br/>
 Backend: **ASP.NET Core**, **Node.js**
 <br/>
